@@ -50,8 +50,8 @@
 - `protected`
 - `public`
 - `return`
-- short`
-- static`
+- `short`
+- `static`
 - `super`
 - `switch`
 - `synchronized`
